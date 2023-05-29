@@ -244,7 +244,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
-[opp1](https://github.com/Vineesh-AI-DS/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93427254/791d7378-bf6e-4a37-8c66-990b86d69134)
+![opp1](https://github.com/Vineesh-AI-DS/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93427254/791d7378-bf6e-4a37-8c66-990b86d69134)
 
 ![opp2](https://github.com/Vineesh-AI-DS/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93427254/ea6d00d2-97ff-4a99-9e8a-17256555cff0)
 ![opp3](https://github.com/Vineesh-AI-DS/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/93427254/c4b5d52f-8322-4f0f-baf6-d11c84b887ff)
